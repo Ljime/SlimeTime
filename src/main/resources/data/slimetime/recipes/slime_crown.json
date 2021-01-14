@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W W",
+    "WRW",
+    "RWR"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:gold_ingot"
+    },
+    "R": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result": {
+    "item": "slimetime:slime_crown",
+    "count": 1
+  }
+}
